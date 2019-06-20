@@ -2,6 +2,7 @@
 const app = getApp()
 
 Page({
+  
   data: {
     avatarUrl: './user-unlogin.png',
     userInfo: {},
