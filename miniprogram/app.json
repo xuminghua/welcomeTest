@@ -15,5 +15,8 @@
     "navigationBarTitleText": "预约",
     "navigationBarTextStyle": "black"
   },
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "usingComponents": {
+    "wux-button": "pages/wux/button/index"
+  }
 }
