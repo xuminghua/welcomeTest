@@ -1,0 +1,29 @@
+<view class="page">
+   
+        <wux-tabbar defaultCurrent="1" position="bottom" safeArea>
+        <wux-tabbar-item title="主页">
+                <wux-badge  slot="icon-on">
+                    <wux-icon wux-class="icon" type="ios-home" size="22" />
+                </wux-badge>
+                <wux-badge slot="icon-off">
+                    <wux-icon wux-class="icon" type="ios-home" size="22" />
+                </wux-badge>
+            </wux-tabbar-item>
+            <wux-tabbar-item title="预约洗车">
+                <wux-badge slot="icon-on">
+                    <wux-icon wux-class="icon" type="ios-aperture" size="22" />
+                </wux-badge>
+                <wux-badge  slot="icon-off">
+                    <wux-icon wux-class="icon" type="ios-aperture" size="22" />
+                </wux-badge>
+            </wux-tabbar-item>
+            <wux-tabbar-item title="我的">
+                <wux-badge dot slot="icon-on">
+                    <wux-icon count="2" wux-class="icon" type="ios-person" size="22" />
+                </wux-badge>
+                <wux-badge dot slot="icon-off">
+                    <wux-icon count="2" wux-class="icon" type="ios-person" size="22" />
+                </wux-badge>
+            </wux-tabbar-item>
+        </wux-tabbar>
+</view>

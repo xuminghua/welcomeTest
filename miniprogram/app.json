@@ -1,12 +1,14 @@
 {
   "pages": [
+    "pages/home/home",
     "pages/index/index",
     "pages/userConsole/userConsole",
     "pages/storageConsole/storageConsole",
     "pages/databaseGuide/databaseGuide",
     "pages/addFunction/addFunction",
     "pages/deployFunctions/deployFunctions",
-    "pages/chooseLib/chooseLib"
+    "pages/chooseLib/chooseLib",
+    "pages/my/my"
   ],
   "window": {
     "backgroundColor": "#F6F6F6",
@@ -17,6 +19,10 @@
   },
   "sitemapLocation": "sitemap.json",
   "usingComponents": {
-    "wux-button": "pages/wux/button/index"
+    "wux-button": "pages/wux/button/index",
+    "wux-icon": "pages/wux/icon/index",
+    "wux-badge": "pages/wux/badge/index",
+    "wux-tabbar": "pages/wux/tabbar/index",
+    "wux-tabbar-item": "pages/wux/tabbar-item/index"
   }
 }
