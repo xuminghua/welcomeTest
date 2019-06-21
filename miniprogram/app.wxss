@@ -1,4 +1,5 @@
 /**app.wxss**/
+@import 'pages/wux/styles/index.wxss';
 .container {
   display: flex;
   flex-direction: column;

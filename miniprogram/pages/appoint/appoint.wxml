@@ -1,0 +1,12 @@
+<!--miniprogram/pages/appoint/appoint.wxml-->
+<view class="wux-text--capitalize wux-positive">洗车服务条款</view>
+<!-- Color -->
+<view class="wux-light">Light</view>
+<view class="wux-stable">Stable</view>
+<view class="wux-positive">Positive</view>
+<view class="wux-calm">Calm</view>
+<view class="wux-balanced">Balanced</view>
+<view class="wux-energized">Energized</view>
+<view class="wux-assertive">Assertive</view>
+<view class="wux-royal">Royal</view> 
+<view class="wux-dark">Dark</view>

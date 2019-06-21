@@ -1,6 +1,6 @@
 <view class="page">
-   
-        <wux-tabbar defaultCurrent="1" position="bottom" safeArea>
+   3333333333333333333
+        <!-- <wux-tabbar defaultCurrent="1" position="bottom" safeArea>
         <wux-tabbar-item title="主页">
                 <wux-badge  slot="icon-on">
                     <wux-icon wux-class="icon" type="ios-home" size="22" />
@@ -25,5 +25,5 @@
                     <wux-icon count="2" wux-class="icon" type="ios-person" size="22" />
                 </wux-badge>
             </wux-tabbar-item>
-        </wux-tabbar>
+        </wux-tabbar> -->
 </view>
